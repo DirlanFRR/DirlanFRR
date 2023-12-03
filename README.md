@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dirlan18_ccb/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dirlan-python-dev/)
 
-![Dirlan GitHub stats](https://github-readme-stats.vercel.app/api?username=DirlanFRR&show_icons=true&theme=onedark)
+![Dirlan GitHub stats](https://github-readme-stats.vercel.app/api?username=DirlanFRR&show_icons=true&theme=onedark&custom_title=A&hide=prs,issues,contribs)
 
 ### Tecnologias que mais uso no meu dia a dia.
 
