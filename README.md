@@ -49,7 +49,7 @@
   <a href="https://instagram.com/dirlan18_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dirlan18_dev" height="30" width="40" /></a>
 </p>
 <p align="left">
-  <em>Visite meu GitHub para conferir meus projetos e contribuições:</em> <a href="https://github.com/seu_usuario_do_github">Visite meu GitHub</a>
+  <em>Visite meu GitHub para conferir meus projetos e contribuições:</em> <a href="https://github.com/DirlanFRR?tab=repositories">Visite meu GitHub</a>
 </p>
 <br>
 
