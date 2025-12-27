@@ -26,7 +26,7 @@ Busco minha primeira oportunidade como desenvolvedor, criando projetos práticos
 ---
 
 ### 📌 Featured
-Confira meus **repositórios fixados** abaixo para ver projetos reais em Python e Web.
+Confira meus **repositórios** para ver projetos reais Fullstack.
 
 ---
 
@@ -36,7 +36,7 @@ Confira meus **repositórios fixados** abaixo para ver projetos reais em Python 
   <a href="https://linkedin.com/in/dirlan-python-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/dirlan18_dev">
+  <a href="https://instagram.com/https://www.instagram.com/dirlan_si/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
