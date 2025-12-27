@@ -11,37 +11,28 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" />
 </p>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<img align="right" alt="Dev" width="260" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
+<h3>📊 About Me</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dirlanfrr&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+Sou estudante de Engenharia de Computação e desenvolvedor focado em <strong>Python e Desenvolvimento Web</strong>.
+Tenho experiência com projetos usando Django, APIs REST, front‑end moderno e banco de dados relacionais.
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirlanfrr&layout=compact&theme=tokyonight&cache_seconds=86400" />
+Gosto de aprender na prática, construir projetos reais e evoluir constantemente como desenvolvedor.
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=dirlanfrr&theme=tokyonight" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/dirlanfrr/dirlanfrr/main/assets/code.png" width="220" />
+  <img src="https://raw.githubusercontent.com/dirlanfrr/dirlanfrr/main/assets/web.png" width="220" />
 </p>
 
 ---
