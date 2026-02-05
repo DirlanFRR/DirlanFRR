@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About me
-Sou estudante de Engenharia de Computação e desenvolvedor focado em **Python e Desenvolvimento Web**.  
-Busco minha primeira oportunidade como desenvolvedor, criando projetos práticos e evoluindo constantemente.
+Sou estudante de Sistemas de Informação, com foco em Análise de Dados, Business Intelligence e desenvolvimento de soluções analíticas. Possuo experiência em desenvolvimento Full Stack e utilizo esse conhecimento técnico para integrar sistemas, tratar dados e gerar insights estratégicos.
 
+Atualmente direciono meus estudos e projetos para Power BI, SQL e Python, trabalhando com manipulação de dados, criação de dashboards e automação de processos. Busco oportunidades para atuar como Analista de Dados e BI, aplicando na prática conhecimentos técnicos e analíticos para apoiar a tomada de decisão.
 ---
 
 ### 🛠️ Technologies
@@ -36,7 +36,7 @@ Confira meus **repositórios** para ver projetos reais Fullstack.
   <a href="https://linkedin.com/in/dirlan-python-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/dirlan_si">
+  <a href="https://www.instagram.com/dirlan_si/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
